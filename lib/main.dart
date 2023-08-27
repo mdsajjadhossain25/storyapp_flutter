@@ -150,15 +150,13 @@ class Story {
 // Dummy data
 List<Story> storyList = [
   Story(
-    title: 'The Adventure of Alex',
-    coverImage: 'assets/alex.png',
+    title: 'Lets learn about microcontroller ',
+    coverImage: 'assets/micro.png',
     content:
-        'Once upon a time, in a small village nestled between towering mountains and lush forests, lived a curious and adventurous boy named Alex. He had always dreamt of embarking on incredible journeys and uncovering hidden treasures. One bright morning, as the sun painted the sky with shades of gold, Alex decided that today was the day he would begin his grand adventure.'
-        'Equipped with a backpack filled with snacks, a map, and a heart full of courage, Alex set out on his journey. His path led him through dense woods and over babbling brooks. Along the way, he encountered talking animals who offered advice and kind words. A wise old owl shared stories of ancient legends and whispered about a hidden realm known as the Enchanted Forest.'
-        'With newfound excitement, Alex followed the owls guidance and soon found himself standing before a shimmering veil of mist. As he stepped through, the world transformed around him. Trees glowed with soft light, flowers danced to a gentle melody, and the air hummed with magic. This was the Enchanted Forest.',
+        'A microcontroller is a compact integrated circuit that combines a CPU, memory, and I/O peripherals on a single chip. Its designed for embedded systems, offering control and processing capabilities. Microcontrollers are commonly used in devices like appliances, automotive systems, and industrial equipment. They execute small programs stored in their memory, interact with sensors, actuators, and communicate with other devices. They come in various architectures, like ARM, AVR, and PIC. Programming languages such as C/C++ are often used to develop applications for microcontrollers. They are crucial components in creating smart, automated, and responsive electronic systems.',
   ),
   Story(
-      title: "A thirsty Corw",
+      title: "A Thirsty Crow",
       coverImage: 'assets/thirsty crow.png',
       content:
           ' It was summer. A crow was very thirsty. He flew here and there in search of water. Suddenly he saw a pitcher. There was a little water at the bottom of the pitcher. The crow tried to drink the water but could not drink it. He then tried to overturn the pitcher but failed again. He saw some pebbles nearby. At last the crow hit upon a plan. He picked them up and dropped one by one into the pitcher.The water soon rose up to the brim. The crow drank water to its heart’s content. In this way he quenched his thirst and flew away happily.'),
